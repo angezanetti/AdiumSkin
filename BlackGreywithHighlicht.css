@@ -1,3 +1,11 @@
+/*
+
+Black highlight variant
+
+made by AngeZanetti - 2011
+
+*/
+
 .incoming:not(.history) .x-sender,
 .incoming:not(.history) a,
 #Chat:not(.groupchat) .status .x-message,
